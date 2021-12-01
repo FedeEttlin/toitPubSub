@@ -67,7 +67,7 @@ Luego nos suscribimos al tópico "cloud:mensajes" que fue el que creamos más ar
 
 El siguiente paso es subir el código desde la extensión TOIT que instalamos en VSCODE.
 
-Para esto hacemos clic en la extensión (nos va a pedir hacer loguearnos) y luego seleccionamos el dispositivo y damos clic en deploy.
+Para esto hacemos clic en la extensión (nos va a pedir loguearnos) y luego seleccionamos el dispositivo y damos clic en deploy.
 
 ![Screenshot](images/subir.png)
 
