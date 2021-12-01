@@ -1,0 +1,24 @@
+{
+  "name": "toitpubsub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FedeEttlin/toitPubSub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FedeEttlin/toitPubSub/issues"
+  },
+  "homepage": "https://github.com/FedeEttlin/toitPubSub#readme",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.4.4",
+    "@toitware/api": "^0.11.2",
+    "google-protobuf": "^3.19.1"
+  }
+}

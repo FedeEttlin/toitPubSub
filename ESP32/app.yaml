@@ -1,0 +1,7 @@
+name: app
+
+entrypoint: app.toit
+
+pubsub:
+  subscriptions:
+   - "cloud:mensajes"
